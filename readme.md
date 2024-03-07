@@ -1,1 +1,3 @@
-# this is the first dev ops project in gcp
+# Docker Flask application
+- This application is written in Python
+- this application is deployed in GKE
